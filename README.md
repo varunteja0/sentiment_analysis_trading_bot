@@ -1,0 +1,1 @@
+# sentiment_analysis_trading_bot
